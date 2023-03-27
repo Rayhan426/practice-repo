@@ -8,3 +8,13 @@ h1{
 h2{
     color: orange;
 }
+b{
+    color: rgb(255, 0, 0);
+    background-color: rgb(245, 182, 106);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+b:hover{
+    background-color: black;
+    color: white;
+}
